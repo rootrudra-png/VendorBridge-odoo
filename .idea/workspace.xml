@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49299b97-13ad-48a6-aee3-3c6d54f1773f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/v0-vendorbridge-erp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vendorbridge/src/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendorbridge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendorbridge/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendorbridge/src/app/components/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/vendorbridge/src/app/components/Login.tsx" afterDir="false" />
@@ -104,7 +103,7 @@
       <workItem from="1780718337912" duration="11262000" />
       <workItem from="1780735783087" duration="41000" />
       <workItem from="1780736260920" duration="615000" />
-      <workItem from="1780736914792" duration="8136000" />
+      <workItem from="1780736914792" duration="8761000" />
     </task>
     <servers />
   </component>
